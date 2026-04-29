@@ -1,4 +1,4 @@
-✂️ Jokenpô (Pedra, Papel e Tesoura)
+✂️ Jokempô (Pedra, Papel e Tesoura)
 
 Projeto simples de Jokenpô desenvolvido com JavaScript puro, onde o jogador enfrenta um bot que faz escolhas aleatórias.
 
